@@ -39,6 +39,9 @@
     <Reference Include="Guna.UI2, Version=2.0.4.7, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
       <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.7\lib\net48\Guna.UI2.dll</HintPath>
     </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Design" />
@@ -56,24 +59,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Controller\DanhSachKhachHang.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Controller\DanhSachKhachHang.Designer.cs">
-      <DependentUpon>DanhSachKhachHang.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Controller\UserControl1.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="Controller\UserControl1.Designer.cs">
-      <DependentUpon>UserControl1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="ManHinhDangKy.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="ManHinhDangKy.Designer.cs">
-      <DependentUpon>ManHinhDangKy.cs</DependentUpon>
-    </Compile>
+    <Compile Include="Controller\AdminController.cs" />
+    <Compile Include="Controller\CustomerController.cs" />
+    <Compile Include="Controller\CustomerManagementController.cs" />
+    <Compile Include="Controller\LoginController.cs" />
+    <Compile Include="Controller\OrderManagementController.cs" />
+    <Compile Include="Controller\ProductController.cs" />
+    <Compile Include="Controller\ProductManagementController.cs" />
+    <Compile Include="Dao\CustomerDAO.cs" />
+    <Compile Include="Dao\CustomerManagementDAO.cs" />
+    <Compile Include="Dao\DbConnection.cs" />
+    <Compile Include="Dao\OrderDAO.cs" />
+    <Compile Include="Dao\OrderManagementDAO.cs" />
+    <Compile Include="Dao\ProductDAO.cs" />
+    <Compile Include="Dao\ProductManagementDAO.cs" />
+    <Compile Include="Dao\TransactionDAO.cs" />
     <Compile Include="ManHinhDangNhap.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -86,17 +86,23 @@
     <Compile Include="ManHinhChinhQuanLy.Designer.cs">
       <DependentUpon>ManHinhChinhQuanLy.cs</DependentUpon>
     </Compile>
+    <Compile Include="Model\CartItem.cs" />
+    <Compile Include="Model\Customer.cs" />
+    <Compile Include="Model\Order.cs" />
+    <Compile Include="Model\OrderDetail.cs" />
+    <Compile Include="Model\Product.cs" />
+    <Compile Include="Model\UserSession.cs" />
     <Compile Include="ThongKe.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="ThongKe.Designer.cs">
       <DependentUpon>ThongKe.cs</DependentUpon>
     </Compile>
-    <Compile Include="DanhSachKhachHang.cs">
+    <Compile Include="View\CustomerAccountManagementForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="DanhSachKhachHang.Designer.cs">
-      <DependentUpon>DanhSachKhachHang.cs</DependentUpon>
+    <Compile Include="View\CustomerAccountManagementForm.Designer.cs">
+      <DependentUpon>CustomerAccountManagementForm.cs</DependentUpon>
     </Compile>
     <Compile Include="LichSuMuaHang.cs">
       <SubType>Form</SubType>
@@ -118,15 +124,33 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Controller\DanhSachKhachHang.resx">
-      <DependentUpon>DanhSachKhachHang.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Controller\UserControl1.resx">
-      <DependentUpon>UserControl1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ManHinhDangKy.resx">
-      <DependentUpon>ManHinhDangKy.cs</DependentUpon>
-    </EmbeddedResource>
+    <Compile Include="View\CartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CartForm.Designer.cs">
+      <DependentUpon>CartForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CustomerDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\OrderManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\OrderManagementForm.Designer.cs">
+      <DependentUpon>OrderManagementForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ProductListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ProductListForm.Designer.cs">
+      <DependentUpon>ProductListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ProductManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ProductManagementForm.Designer.cs">
+      <DependentUpon>ProductManagementForm.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="ManHinhDangNhap.resx">
       <DependentUpon>ManHinhDangNhap.cs</DependentUpon>
     </EmbeddedResource>
@@ -136,8 +160,8 @@
     <EmbeddedResource Include="ThongKe.resx">
       <DependentUpon>ThongKe.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="DanhSachKhachHang.resx">
-      <DependentUpon>DanhSachKhachHang.cs</DependentUpon>
+    <EmbeddedResource Include="View\CustomerAccountManagementForm.resx">
+      <DependentUpon>CustomerAccountManagementForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LichSuMuaHang.resx">
       <DependentUpon>LichSuMuaHang.cs</DependentUpon>
@@ -158,6 +182,21 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="View\CartForm.resx">
+      <DependentUpon>CartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CustomerDashboard.resx">
+      <DependentUpon>CustomerDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\OrderManagementForm.resx">
+      <DependentUpon>OrderManagementForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ProductListForm.resx">
+      <DependentUpon>ProductListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ProductManagementForm.resx">
+      <DependentUpon>ProductManagementForm.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -172,11 +211,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Dao\" />
-    <Folder Include="Model\" />
-    <Folder Include="View\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="Resources\menu_.png" />
   </ItemGroup>

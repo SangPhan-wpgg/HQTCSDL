@@ -29,13 +29,13 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ManHinhDangNhap));
-            this.txtUserDangNhap = new System.Windows.Forms.TextBox();
-            this.txtUserPassword = new System.Windows.Forms.TextBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
             this.rbtn_admin = new Guna.UI2.WinForms.Guna2RadioButton();
             this.rbtn_NhanVien = new Guna.UI2.WinForms.Guna2RadioButton();
             this.rbtn_KhachHang = new Guna.UI2.WinForms.Guna2RadioButton();
             this.label1 = new System.Windows.Forms.Label();
-            this.btnDangNhap = new Guna.UI2.WinForms.Guna2Button();
+            this.guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -44,24 +44,24 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
-            // txtUserDangNhap
+            // textBox1
             // 
-            this.txtUserDangNhap.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.txtUserDangNhap.Location = new System.Drawing.Point(495, 167);
-            this.txtUserDangNhap.Multiline = true;
-            this.txtUserDangNhap.Name = "txtUserDangNhap";
-            this.txtUserDangNhap.Size = new System.Drawing.Size(190, 30);
-            this.txtUserDangNhap.TabIndex = 5;
-            this.txtUserDangNhap.UseWaitCursor = true;
+            this.textBox1.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.textBox1.Location = new System.Drawing.Point(495, 167);
+            this.textBox1.Multiline = true;
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(190, 30);
+            this.textBox1.TabIndex = 5;
+            this.textBox1.UseWaitCursor = true;
             // 
-            // txtUserPassword
+            // textBox2
             // 
-            this.txtUserPassword.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.txtUserPassword.Location = new System.Drawing.Point(495, 230);
-            this.txtUserPassword.Multiline = true;
-            this.txtUserPassword.Name = "txtUserPassword";
-            this.txtUserPassword.Size = new System.Drawing.Size(190, 30);
-            this.txtUserPassword.TabIndex = 6;
+            this.textBox2.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.textBox2.Location = new System.Drawing.Point(495, 230);
+            this.textBox2.Multiline = true;
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(190, 30);
+            this.textBox2.TabIndex = 6;
             // 
             // rbtn_admin
             // 
@@ -137,24 +137,24 @@
             this.label1.TabIndex = 10;
             this.label1.Text = "Chào mừng đến với Gia Huy";
             // 
-            // btnDangNhap
+            // guna2Button1
             // 
-            this.btnDangNhap.Animated = true;
-            this.btnDangNhap.BackColor = System.Drawing.Color.Transparent;
-            this.btnDangNhap.BorderRadius = 20;
-            this.btnDangNhap.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btnDangNhap.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btnDangNhap.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btnDangNhap.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btnDangNhap.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.btnDangNhap.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold);
-            this.btnDangNhap.ForeColor = System.Drawing.Color.White;
-            this.btnDangNhap.Location = new System.Drawing.Point(456, 367);
-            this.btnDangNhap.Name = "btnDangNhap";
-            this.btnDangNhap.Size = new System.Drawing.Size(180, 45);
-            this.btnDangNhap.TabIndex = 12;
-            this.btnDangNhap.Text = "Đăng Nhập";
-            this.btnDangNhap.UseTransparentBackground = true;
+            this.guna2Button1.Animated = true;
+            this.guna2Button1.BackColor = System.Drawing.Color.Transparent;
+            this.guna2Button1.BorderRadius = 20;
+            this.guna2Button1.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.guna2Button1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.guna2Button1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.guna2Button1.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold);
+            this.guna2Button1.ForeColor = System.Drawing.Color.White;
+            this.guna2Button1.Location = new System.Drawing.Point(456, 367);
+            this.guna2Button1.Name = "guna2Button1";
+            this.guna2Button1.Size = new System.Drawing.Size(180, 45);
+            this.guna2Button1.TabIndex = 12;
+            this.guna2Button1.Text = "Đăng Nhập";
+            this.guna2Button1.UseTransparentBackground = true;
             // 
             // pictureBox3
             // 
@@ -187,22 +187,22 @@
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
-            // ManHinhDangNhap
+            // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1103, 620);
-            this.Controls.Add(this.btnDangNhap);
+            this.Controls.Add(this.guna2Button1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.rbtn_KhachHang);
             this.Controls.Add(this.rbtn_NhanVien);
             this.Controls.Add(this.rbtn_admin);
-            this.Controls.Add(this.txtUserPassword);
-            this.Controls.Add(this.txtUserDangNhap);
+            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
-            this.Name = "ManHinhDangNhap";
+            this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Đăng Nhập";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
@@ -216,13 +216,13 @@
         #endregion
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.PictureBox pictureBox3;
-        private System.Windows.Forms.TextBox txtUserDangNhap;
-        private System.Windows.Forms.TextBox txtUserPassword;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBox2;
         private Guna.UI2.WinForms.Guna2RadioButton rbtn_admin;
         private Guna.UI2.WinForms.Guna2RadioButton rbtn_NhanVien;
         private Guna.UI2.WinForms.Guna2RadioButton rbtn_KhachHang;
         private System.Windows.Forms.Label label1;
-        private Guna.UI2.WinForms.Guna2Button btnDangNhap;
+        private Guna.UI2.WinForms.Guna2Button guna2Button1;
         private System.Windows.Forms.PictureBox pictureBox1;
     }
 }

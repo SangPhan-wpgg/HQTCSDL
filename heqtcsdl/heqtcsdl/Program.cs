@@ -16,7 +16,7 @@ namespace heqtcsdl
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ManHinhChinhQuanLy());
+            Application.Run(new ManHinhDangNhap());
         }
     }
 }

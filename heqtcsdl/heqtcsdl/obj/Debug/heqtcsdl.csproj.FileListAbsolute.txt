@@ -7,9 +7,6 @@ D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\bin\Debug\Guna.C
 D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.csproj.AssemblyReference.cache
 D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.Controller.DanhSachKhachHang.resources
 D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.Controller.UserControl1.resources
-D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.Form1.resources
-D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.Form2.resources
-D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.Form3.resources
 D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.Properties.Resources.resources
 D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.csproj.GenerateResource.cache
 D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.csproj.CoreCompileInputs.cache
@@ -17,7 +14,14 @@ D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcs
 D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.exe
 D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.pdb
 D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.exe.config
-D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.Form4.resources
 D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.KhachHang.resources
-D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.Form5.resources
-D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.Form6.resources
+D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\bin\Debug\Newtonsoft.Json.dll
+D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\bin\Debug\Newtonsoft.Json.xml
+D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.ManHinhDangNhap.resources
+D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.ManHinhChinhQuanLy.resources
+D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.ThongKe.resources
+D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.DanhSachKhachHang.resources
+D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.LichSuMuaHang.resources
+D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.ChuongTrinhKhuyenMai.resources
+D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.View.CustomerDashboard.resources
+D:\Năm 3 kì 1 đợt 1\Hệ qt csdl\Project\heqtcsdl\heqtcsdl\obj\Debug\heqtcsdl.View.ProductListForm.resources
