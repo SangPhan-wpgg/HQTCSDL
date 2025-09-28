@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|solutionrelative:heqtcsdl\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\manhinhdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|solutionrelative:heqtcsdl\\manhinhdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|d:\\n\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\h\u1EC7 qt csdl\\backup\\heqtcsdl\\heqtcsdl\\manhinhdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|solutionrelative:heqtcsdl\\manhinhdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\manhinhchinhquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|solutionrelative:heqtcsdl\\manhinhchinhquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|d:\\n\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\h\u1EC7 qt csdl\\backup\\heqtcsdl\\heqtcsdl\\lichsumuahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|solutionrelative:heqtcsdl\\lichsumuahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\danhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|solutionrelative:heqtcsdl\\danhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\chuongtrinhkhuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|solutionrelative:heqtcsdl\\chuongtrinhkhuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\controller\\danhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|solutionrelative:heqtcsdl\\controller\\danhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|solutionrelative:heqtcsdl\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\chuongtrinhkhuyenmai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|solutionrelative:heqtcsdl\\chuongtrinhkhuyenmai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|solutionrelative:heqtcsdl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|solutionrelative:heqtcsdl\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\controller\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|solutionrelative:heqtcsdl\\controller\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\controller\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C2C517-3785-459D-B288-0E3B5A8D077A}|heqtcsdl\\heqtcsdl.csproj|solutionrelative:heqtcsdl\\controller\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./QuanLyCuaHangDienThoai/sa/SqlTable/dbo.TaiKhoan.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\Project\\heqtcsdl\\heqtcsdl\\Form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\Project\\heqtcsdl\\heqtcsdl\\Form3.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\Project\\heqtcsdl\\heqtcsdl\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\Project\\heqtcsdl\\heqtcsdl\\Form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\Project\\heqtcsdl\\heqtcsdl\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManHinhDangKy.cs [Design]",
+              "DocumentMoniker": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\ManHinhDangKy.cs",
+              "RelativeDocumentMoniker": "heqtcsdl\\ManHinhDangKy.cs",
+              "ToolTip": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\ManHinhDangKy.cs [Design]",
+              "RelativeToolTip": "heqtcsdl\\ManHinhDangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T20:23:41.131Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LichSuMuaHang.cs [Design]",
+              "DocumentMoniker": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\LichSuMuaHang.cs",
+              "RelativeDocumentMoniker": "heqtcsdl\\LichSuMuaHang.cs",
+              "ToolTip": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\LichSuMuaHang.cs [Design]",
+              "RelativeToolTip": "heqtcsdl\\LichSuMuaHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:14:07.105Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManHinhChinhQuanLy.cs [Design]",
+              "DocumentMoniker": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\ManHinhChinhQuanLy.cs",
+              "RelativeDocumentMoniker": "heqtcsdl\\ManHinhChinhQuanLy.cs",
+              "ToolTip": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\ManHinhChinhQuanLy.cs [Design]",
+              "RelativeToolTip": "heqtcsdl\\ManHinhChinhQuanLy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:07:09.294Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManHinhDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\ManHinhDangNhap.cs",
+              "RelativeDocumentMoniker": "heqtcsdl\\ManHinhDangNhap.cs",
+              "ToolTip": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\ManHinhDangNhap.cs [Design]",
+              "RelativeToolTip": "heqtcsdl\\ManHinhDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:07:06.464Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\ThongKe.cs",
+              "RelativeDocumentMoniker": "heqtcsdl\\ThongKe.cs",
+              "ToolTip": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\ThongKe.cs [Design]",
+              "RelativeToolTip": "heqtcsdl\\ThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:26:45.217Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DanhSachKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\DanhSachKhachHang.cs",
+              "RelativeDocumentMoniker": "heqtcsdl\\DanhSachKhachHang.cs",
+              "ToolTip": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\DanhSachKhachHang.cs [Design]",
+              "RelativeToolTip": "heqtcsdl\\DanhSachKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:06:32.271Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChuongTrinhKhuyenMai.cs [Design]",
+              "DocumentMoniker": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\ChuongTrinhKhuyenMai.cs",
+              "RelativeDocumentMoniker": "heqtcsdl\\ChuongTrinhKhuyenMai.cs",
+              "ToolTip": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\ChuongTrinhKhuyenMai.cs [Design]",
+              "RelativeToolTip": "heqtcsdl\\ChuongTrinhKhuyenMai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:05:55.754Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DanhSachKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\Controller\\DanhSachKhachHang.cs",
+              "RelativeDocumentMoniker": "heqtcsdl\\Controller\\DanhSachKhachHang.cs",
+              "ToolTip": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\Project\\heqtcsdl\\heqtcsdl\\Controller\\DanhSachKhachHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\Project\\heqtcsdl\\heqtcsdl\\Controller\\DanhSachKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T05:16:07.985Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\KhachHang.cs",
+              "RelativeDocumentMoniker": "heqtcsdl\\KhachHang.cs",
+              "ToolTip": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\KhachHang.cs [Design]",
+              "RelativeToolTip": "heqtcsdl\\KhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T08:37:13.86Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChuongTrinhKhuyenMai.Designer.cs",
+              "DocumentMoniker": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\ChuongTrinhKhuyenMai.Designer.cs",
+              "RelativeDocumentMoniker": "heqtcsdl\\ChuongTrinhKhuyenMai.Designer.cs",
+              "ToolTip": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\ChuongTrinhKhuyenMai.Designer.cs",
+              "RelativeToolTip": "heqtcsdl\\ChuongTrinhKhuyenMai.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:05:48.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\Program.cs",
+              "RelativeDocumentMoniker": "heqtcsdl\\Program.cs",
+              "ToolTip": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\Program.cs",
+              "RelativeToolTip": "heqtcsdl\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:57:00.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\Project\\heqtcsdl\\heqtcsdl\\Form1.resx",
+              "RelativeDocumentMoniker": "..\\..\\Project\\heqtcsdl\\heqtcsdl\\Form1.resx",
+              "ToolTip": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\Project\\heqtcsdl\\heqtcsdl\\Form1.resx",
+              "RelativeToolTip": "..\\..\\Project\\heqtcsdl\\heqtcsdl\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-21T04:29:19.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\App.config",
+              "RelativeDocumentMoniker": "heqtcsdl\\App.config",
+              "ToolTip": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\App.config",
+              "RelativeToolTip": "heqtcsdl\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-23T06:53:28.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\Project\\heqtcsdl\\heqtcsdl\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Project\\heqtcsdl\\heqtcsdl\\Form3.Designer.cs",
+              "ToolTip": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\Project\\heqtcsdl\\heqtcsdl\\Form3.Designer.cs",
+              "RelativeToolTip": "..\\..\\Project\\heqtcsdl\\heqtcsdl\\Form3.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:57:59.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\Project\\heqtcsdl\\heqtcsdl\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\Project\\heqtcsdl\\heqtcsdl\\Form1.cs",
+              "ToolTip": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\Project\\heqtcsdl\\heqtcsdl\\Form1.cs",
+              "RelativeToolTip": "..\\..\\Project\\heqtcsdl\\heqtcsdl\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAewBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T02:53:34.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\Project\\heqtcsdl\\heqtcsdl\\Form3.cs",
+              "RelativeDocumentMoniker": "..\\..\\Project\\heqtcsdl\\heqtcsdl\\Form3.cs",
+              "ToolTip": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\Project\\heqtcsdl\\heqtcsdl\\Form3.cs",
+              "RelativeToolTip": "..\\..\\Project\\heqtcsdl\\heqtcsdl\\Form3.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAewBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T05:52:41.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\Project\\heqtcsdl\\heqtcsdl\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Project\\heqtcsdl\\heqtcsdl\\Form1.Designer.cs",
+              "ToolTip": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\Project\\heqtcsdl\\heqtcsdl\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\..\\Project\\heqtcsdl\\heqtcsdl\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T02:23:03.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\Controller\\UserControl1.cs",
+              "RelativeDocumentMoniker": "heqtcsdl\\Controller\\UserControl1.cs",
+              "ToolTip": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\Project\\heqtcsdl\\heqtcsdl\\Controller\\UserControl1.cs [Design]",
+              "RelativeToolTip": "..\\..\\Project\\heqtcsdl\\heqtcsdl\\Controller\\UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T05:12:23.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\Controller\\UserControl1.cs",
+              "RelativeDocumentMoniker": "heqtcsdl\\Controller\\UserControl1.cs",
+              "ToolTip": "D:\\N\u0103m 3 k\u00EC 1 \u0111\u1EE3t 1\\H\u1EC7 qt csdl\\BackUp\\heqtcsdl\\heqtcsdl\\Controller\\UserControl1.cs",
+              "RelativeToolTip": "heqtcsdl\\Controller\\UserControl1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAewAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T05:12:25.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbo.TaiKhoan.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./QuanLyCuaHangDienThoai/sa/SqlTable/dbo.TaiKhoan.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/./QuanLyCuaHangDienThoai/sa/SqlTable/dbo.TaiKhoan.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-20T16:12:22.414Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 341,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

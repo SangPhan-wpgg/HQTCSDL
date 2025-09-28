@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A5C2C517-3785-459D-B288-0E3B5A8D077A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>heqtcsdl</RootNamespace>
+    <AssemblyName>heqtcsdl</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.Charts.WinForms, Version=1.1.0.0, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.Charts.WinForms.1.1.0\lib\net48\Guna.Charts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.7, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.7\lib\net48\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\DanhSachKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controller\DanhSachKhachHang.Designer.cs">
+      <DependentUpon>DanhSachKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controller\UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controller\UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhDangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhDangKy.Designer.cs">
+      <DependentUpon>ManHinhDangKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhDangNhap.Designer.cs">
+      <DependentUpon>ManHinhDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhChinhQuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhChinhQuanLy.Designer.cs">
+      <DependentUpon>ManHinhChinhQuanLy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThongKe.Designer.cs">
+      <DependentUpon>ThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DanhSachKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhSachKhachHang.Designer.cs">
+      <DependentUpon>DanhSachKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LichSuMuaHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LichSuMuaHang.Designer.cs">
+      <DependentUpon>LichSuMuaHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChuongTrinhKhuyenMai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChuongTrinhKhuyenMai.Designer.cs">
+      <DependentUpon>ChuongTrinhKhuyenMai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="KhachHang.Designer.cs">
+      <DependentUpon>KhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Controller\DanhSachKhachHang.resx">
+      <DependentUpon>DanhSachKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controller\UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhDangKy.resx">
+      <DependentUpon>ManHinhDangKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhDangNhap.resx">
+      <DependentUpon>ManHinhDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhChinhQuanLy.resx">
+      <DependentUpon>ManHinhChinhQuanLy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThongKe.resx">
+      <DependentUpon>ThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhSachKhachHang.resx">
+      <DependentUpon>DanhSachKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LichSuMuaHang.resx">
+      <DependentUpon>LichSuMuaHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChuongTrinhKhuyenMai.resx">
+      <DependentUpon>ChuongTrinhKhuyenMai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang.resx">
+      <DependentUpon>KhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Dao\" />
+    <Folder Include="Model\" />
+    <Folder Include="View\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\product_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\history_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coupon_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\overview_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\overview_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\product_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer-lists-fill-26_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coupon_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\badge-promotion-outline_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer-service-2-line_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\statistic-up_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout_.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
