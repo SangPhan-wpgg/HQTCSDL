@@ -1,3 +1,4 @@
+```mermaid
 erDiagram
     VaiTro {
         int VaiTroID PK
@@ -104,3 +105,4 @@ erDiagram
     NguoiDung ||--o{ LichSuThietBi : "NguoiThucHienID"
     Phong ||--o{ LichSuThietBi : "PhongCuID"
     Phong ||--o{ LichSuThietBi : "PhongMoiID"
+```
